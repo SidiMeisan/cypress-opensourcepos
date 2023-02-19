@@ -1,0 +1,24 @@
+{
+  "name": "cypress-opensourcepos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidiMeisan/cypress-opensourcepos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SidiMeisan/cypress-opensourcepos/issues"
+  },
+  "homepage": "https://github.com/SidiMeisan/cypress-opensourcepos#readme",
+  "devDependencies": {
+    "cypress": "^12.6.0"
+  }
+}
